@@ -33,7 +33,7 @@ This project focuses on exploratory data analysis (EDA) of the Netflix dataset t
 4. **Key Analysis Questions**
 
 ## Materials and Methods
-The dataset used in this project includes various attributes related to Netflix content, such as titles, release years, ratings, and available countries. The specific dataset can be obtained from [Kaggle: Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shubhendra/Netflix-Movies-and-TV-Shows). The analysis involves data cleaning, exploratory data analysis, and visualization techniques.
+The dataset used in this project includes various attributes related to Netflix content, such as titles, release years, ratings, and available countries. The specific dataset can be obtained from [Kaggle: Full Netflix Dataset](https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset). The analysis involves data cleaning, exploratory data analysis, and visualization techniques.
 
 ## Key Analysis Questions
 - What are the trends in Netflix content over the years?
